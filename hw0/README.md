@@ -1,6 +1,6 @@
 # hw0
 
-Parsing logical expressions
+## Parsing logical expressions
 
 Given file has such grammar:
 ```
