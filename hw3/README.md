@@ -1,5 +1,5 @@
 # hw3
-## Correctness of classical propositional calculus theorem
+## Completeness of classical propositional calculus theorem
 Input of program is expression in classical propositional calculus.  
 It consists of less than _4 unique variables_.
 
