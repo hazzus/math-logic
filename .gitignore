@@ -3,3 +3,4 @@ workaround
 **/sendable
 *.zip
 **/logic-notes/*
+**/*.txt
